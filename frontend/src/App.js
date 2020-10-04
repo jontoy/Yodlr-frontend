@@ -1,6 +1,6 @@
 import React from "react";
-import Navigation from "./Navigation";
-import Routes from "./Routes";
+import Navigation from "./components/Navigation";
+import Routes from "./components/Routes";
 import "./App.css";
 
 function App() {
